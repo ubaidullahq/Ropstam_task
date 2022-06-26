@@ -1,0 +1,4 @@
+#Sun Jun 26 09:27:15 PKT 2022
+base.0=E\:\\jobs_tasks\\Ropstam_job_task\\job_task\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
